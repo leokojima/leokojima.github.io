@@ -67,6 +67,9 @@
     font-size: 30px;
     color: var(--main-color);
 }
+#social-container a {
+    color: var(--main-color);
+}
 
 /* Email container */
 #email-container a {
